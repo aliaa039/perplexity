@@ -38,8 +38,8 @@ Perplexity 2.0 follows a client-server architecture:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/harishneel1/perplexity_2.0.git
-   cd perplexity_2.0
+   git clone https://github.com/aliaa039/perplexity.git
+   cd perplexity
 
 2. **Set up the server**
    ```bash
