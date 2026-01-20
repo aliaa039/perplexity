@@ -119,7 +119,7 @@ http://localhost:3000
    * AI formulates a grounded response
 5. **Response is streamed** back to the client in real-time
 6. **Search stages are displayed** to the user (searching, reading, writing)
-
+![alt text](image.png)
 ---
 
 ## 🤝 Contributing
