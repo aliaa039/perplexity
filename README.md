@@ -74,11 +74,6 @@ GROQ_API_KEY=your_groq_api_key_here
 TAVILY_API_KEY=your_tavily_api_key_here
 ```
 
-⚠️ **Note:**
-This project uses **Groq (LLaMA 3)** instead of OpenAI models, so **no OpenAI API key is required**.
-
----
-
 #### 4. Set up the client
 
 ```bash
